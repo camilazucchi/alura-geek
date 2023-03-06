@@ -1,0 +1,9 @@
+.navbar__title {
+    align-items: center;
+    color: var(--color__black);
+    display: flex;
+    font-family: var(--main__font);
+    font-weight: bolder;
+    font-size: var(--font__size--medium);
+    justify-content: center;
+}
