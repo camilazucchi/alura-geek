@@ -11,4 +11,8 @@
 
 
     --main__font: 'Raleway', sans-serif;
+    --font__size--small: 14px;
+    --font__size--medium: 16px;
+    --font__size--large: 22px;
+    
 }
