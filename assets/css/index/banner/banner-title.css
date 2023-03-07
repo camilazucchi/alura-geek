@@ -1,0 +1,6 @@
+.banner__title {
+  color: var(--color__white);
+  font-family: var(--main__font);
+  font-size: var(--font__size--large);
+  font-weight: 700;
+}

@@ -1,0 +1,12 @@
+.navbar__login--button {
+    display: flex;
+    background-color: transparent;
+    border: 1px solid var(--color__blue--dark);
+    color: var(--color__blue--dark);
+    font-family: var(--main__font);
+    font-weight: 600;
+    font-size: var(--font__size--medium);
+    justify-content: center;
+    min-width: 150px;
+    padding: 14px;
+}
